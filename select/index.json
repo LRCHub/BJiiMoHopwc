@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "ささくれ",
+  "base_artist": "Radwimps",
+  "createdAt": "2025-12-16T15:29:49.351195Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ささくれ",
+      "artist": "KOTOKO",
+      "has_synced": true,
+      "path": "select/01_ささくれ_KOTOKO.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ささくれ",
+      "artist": "HY",
+      "has_synced": true,
+      "path": "select/02_ささくれ_HY.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ささくれ",
+      "artist": "MYNAME",
+      "has_synced": true,
+      "path": "select/03_ささくれ_MYNAME.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ささくれ",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/04_ささくれ_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ささくれ - Sasakure",
+      "artist": "Radwimps",
+      "has_synced": true,
+      "path": "select/05_ささくれ_-_Sasakure_Radwimps.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ささくれ",
+      "artist": "RADWIMPS",
+      "has_synced": false,
+      "path": "select/pl_01_ささくれ_RADWIMPS.txt"
+    }
+  ]
+}
